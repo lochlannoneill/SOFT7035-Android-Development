@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Project2</string>
+
+    <string name="Username">Lochlann O Neill</string>
+    <string name="ProfilePicture">Profile Picture</string>
+    <string name="Instruments">Instruments</string>
+    <string name="Groceries">Groceries</string>
+    <string name="Fashion">Fashion</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string-array name="instruments">
+        <item>Drums</item>
+        <item>Trumpet</item>
+        <item>Guitar</item>
+        <item>Piano</item>
+        <item>Flute</item>
+        <item>Violin</item>
+    </string-array>
+
+    <string-array name="instruments_codes">
+        <item>I000111</item>
+        <item>I000222</item>
+        <item>I000333</item>
+        <item>I000444</item>
+        <item>I000555</item>
+        <item>I000666</item>
+    </string-array>
+
+    <string-array name="instruments_prices">
+        <item>€229.99</item>
+        <item>€129.99</item>
+        <item>€119.99</item>
+        <item>€499.99</item>
+        <item>€39.99</item>
+        <item>€139.99</item>
+    </string-array>
+
+    <string-array name="groceries">
+        <item>Milk</item>
+        <item>Pizza</item>
+        <item>Steak</item>
+        <item>Bread</item>
+        <item>Fish</item>
+        <item>Honey</item>
+    </string-array>
+
+    <string-array name="groceries_codes">
+        <item>G000111</item>
+        <item>G000222</item>
+        <item>G000333</item>
+        <item>G000444</item>
+        <item>G000555</item>
+        <item>G000666</item>
+    </string-array>
+
+    <string-array name="groceries_prices">
+        <item>€1.80</item>
+        <item>€4.20</item>
+        <item>€4.99</item>
+        <item>€1.20</item>
+        <item>€5.99</item>
+        <item>€4.20</item>
+    </string-array>
+
+    <string-array name="fashion">
+        <item>Hat</item>
+        <item>Shirt</item>
+        <item>Jeans</item>
+        <item>Socks</item>
+        <item>Shoes</item>
+    </string-array>
+
+    <string-array name="fashion_codes">
+        <item>F000111</item>
+        <item>F000222</item>
+        <item>F000333</item>
+        <item>F000444</item>
+        <item>F000555</item>
+    </string-array>
+
+    <string-array name="fashion_prices">
+        <item>€19.99</item>
+        <item>€15.00</item>
+        <item>€59.99</item>
+        <item>€3.99</item>
+        <item>€69.99</item>
+    </string-array>
+
+</resources>
